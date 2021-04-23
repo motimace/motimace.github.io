@@ -1,0 +1,8 @@
+title: "阅读世界"
+theme: jekyll-theme-cayman
+navbar:
+  left:
+    - text: "主页"
+      href: index.md
+    - text: "Create a Project"
+      href: project.html
